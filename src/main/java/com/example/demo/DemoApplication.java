@@ -12,7 +12,7 @@ public class DemoApplication {
 
     @RequestMapping("/")
     String home() {
-        String result = "Hello World 123! - does the repo polling work? - take 7";
+        String result = "Hello World 123! - does the repo polling work? - take 8";
         return result;
     }
 
